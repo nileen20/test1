@@ -1,0 +1,13 @@
+1. git clone (Link from gitHub in (<> code) button HTTPS) -> For Cloning files from git hub.
+2. cd -> change directory.
+3. ls -> list Files.
+4. ls -Force -> Also Shows hidden files.
+5. clear -> clear Terminal.
+6. git status -> tracking status of the git files (which one is modified but not saved in gitHub)
+7. info ->  untracked -> new files that git doesn't yet track
+            modified -> changed files
+            staged -> file is ready to be commited
+            unmodified -> unchanged
+8. git add filename -> file will be add and status will be staged.
+9. git add . -> this will add all files.
+10. git commit -m "commit Message" -> this will commit with Message.
