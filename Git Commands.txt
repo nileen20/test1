@@ -19,4 +19,7 @@
                     git branch -> to check branch
                     git branch -M main -> to rename branch
                     git push origin main -> we can use (git push -u origin main) to push in same repo and further we want to use only (git push)
-                    
+13. git branch -> to check branch
+14. git checkout -b (<- new branch name ->) -> create a new branch
+15. git checkout (<- branch name ->) -> used to switch branch.
+16. git branch -d (<- branch name ->) -> used to delete a branch.
