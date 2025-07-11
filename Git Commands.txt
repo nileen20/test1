@@ -23,3 +23,6 @@
 14. git checkout -b (<- new branch name ->) -> create a new branch
 15. git checkout (<- branch name ->) -> used to switch branch.
 16. git branch -d (<- branch name ->) -> used to delete a branch.
+17. git diff (<- branch name ->) -> to compare commits, branches, files & more.
+18. git merge (<- branch name ->) -> to merge 2 branches.
+19. git pull origin main -> to fetch and download content from remote repo.
