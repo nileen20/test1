@@ -11,3 +11,4 @@
 8. git add filename -> file will be add and status will be staged.
 9. git add . -> this will add all files.
 10. git commit -m "commit Message" -> this will commit with Message.
+11. git push origin main -> For pushing in to the git hub.
