@@ -11,4 +11,12 @@
 8. git add filename -> file will be add and status will be staged.
 9. git add . -> this will add all files.
 10. git commit -m "commit Message" -> this will commit with Message.
-11. git push origin main -> For pushing in to the git hub.
+11. git push origin main -> For pushing in to the git hub. 
+12. Init Command -> 
+                    git init -> this will create a new empty Git Repo.
+                    git remote add origin (origin - any name (git push origin main -> origin is the name)) link -> to set origin.
+                    git remote -v -> to verify remote
+                    git branch -> to check branch
+                    git branch -M main -> to rename branch
+                    git push origin main -> we can use (git push -u origin main) to push in same repo and further we want to use only (git push)
+                    
